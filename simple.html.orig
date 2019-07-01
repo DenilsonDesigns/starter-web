@@ -4,7 +4,8 @@
 <<<<<<< HEAD
 	<title>A very respectful website</title>
 =======
-
+	<title>A great website</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
