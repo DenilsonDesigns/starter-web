@@ -1,7 +1,16 @@
 <!DOCTYPE html>
-<!-- Copyright 2019 new -->
+<!-- Copyright 2019 new 
+<<<<<<< HEAD
+	Conflicting changes
+||||||| merged common ancestors
+	Adding changes before rebasing conflicts
+=======
+	Adding changes before rebasing conflicts
+	big trouble branch
+>>>>>>> fb adding some trouble to simple.html
+-->
 <head>
-	<title>An example website</title>
+	<title>An example website: Big trouble branch</title>
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
@@ -18,21 +27,17 @@
 		<p>
 <<<<<<< HEAD
 			Not too sure what goes here.  
+			Conflicting changes: master
 ||||||| merged common ancestors
-			I'm not sure what will go here. 
+			Not too sure what goes here.  
 =======
-			Some interesting stuff goes here. 
->>>>>>> realwork
+			Not too sure what goes here.
+			Big trouble branch.  
+>>>>>>> fb adding some trouble to simple.html
 		</p>
 	</main>
 	<footer class="container">
-<<<<<<< HEAD
 		<p>&copy; JT 2014</p>
-||||||| merged common ancestors
-		<p>&copy; Professor Meowenstein 2019</p>
-=======
-		<p>&copy; Git training 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
