@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Adding text here for rebasing example
+Adding text here for rebasing example, more features from myfeature branch
 
 ## How to Contribute
 
