@@ -1,11 +1,8 @@
 <!DOCTYPE html>
-<!-- Copyright 2019 -->
+<!-- Copyright 2019 new -->
 <head>
-<<<<<<< HEAD
-	<title>A very respectful website</title>
-=======
-	<title>A great website</title>
->>>>>>> realwork
+	<title>An example website</title>
+
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -20,17 +17,21 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
+			Not too sure what goes here.  
+||||||| merged common ancestors
 			I'm not sure what will go here. 
+=======
+			Some interesting stuff goes here. 
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
+<<<<<<< HEAD
+		<p>&copy; JT 2014</p>
+||||||| merged common ancestors
 		<p>&copy; Professor Meowenstein 2019</p>
 =======
-			Dummy text
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Git training 2019</p>
+		<p>&copy; Git training 2014</p>
 >>>>>>> realwork
 	</footer>
 </body>
