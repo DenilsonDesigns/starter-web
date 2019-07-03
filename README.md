@@ -20,4 +20,4 @@ Please fork this repo and then issue Pull Request
 
 ### Copyright
 
-2019 Git.Training (new rebase example), then more changes from myfeature branch
+2019 Git.Training. All rights reserved
