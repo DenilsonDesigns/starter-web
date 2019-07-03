@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <!-- Copyright 2019 new 
-<<<<<<< HEAD
-	Conflicting changes
-||||||| merged common ancestors
-	Adding changes before rebasing conflicts
-=======
-	Adding changes before rebasing conflicts
-	big trouble branch
->>>>>>> fb adding some trouble to simple.html
+	new new new
 -->
 <head>
-	<title>An example website: Big trouble branch</title>
+<<<<<<< HEAD
+	<title>A very respectful website</title>
+||||||| merged common ancestors
+	<title>An example website</title>
+=======
+	<title>Conflicting title</title>
+>>>>>>> realwork
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
@@ -26,18 +25,23 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			Not too sure what goes here.  
-			Conflicting changes: master
+			Respectful content
 ||||||| merged common ancestors
 			Not too sure what goes here.  
+			Conflicting changes: master
 =======
-			Not too sure what goes here.
-			Big trouble branch.  
->>>>>>> fb adding some trouble to simple.html
+			Dummy text
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; JT 2014</p>
+<<<<<<< HEAD
+		<p>&copy; Respectful Copyright JT 2014</p>
+||||||| merged common ancestors
+		<p>&copy; Copyright JT 2014</p>
+=======
+		<p>&copy; Git.training 2014</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>
