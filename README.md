@@ -8,6 +8,10 @@ This is an example to show different parts
 
 ## Purpose
 
+As stated above this is a change to show different stages
+
 ## Deployment
+
+To deploy, use github
 
 ## How to Contribute
