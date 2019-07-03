@@ -15,3 +15,7 @@ As stated above this is a change to show different stages
 To deploy, use github
 
 ## How to Contribute
+
+### Copyright
+
+2019 Git.Training
