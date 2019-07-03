@@ -16,6 +16,8 @@ To deploy, use github
 
 ## How to Contribute
 
+Please fork this repo and then issue Pull Request
+
 ### Copyright
 
 2019 Git.Training
